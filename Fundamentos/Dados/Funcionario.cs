@@ -1,4 +1,4 @@
-﻿namespace Fundamentos2;
+﻿namespace Fundamentos.Dados;
 
 public class Funcionario
 {
