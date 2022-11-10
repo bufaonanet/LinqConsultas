@@ -1,4 +1,6 @@
-﻿namespace Fundamentos.Dados;
+﻿using System.Net.Http.Headers;
+
+namespace Fundamentos.Dados;
 
 public class Aluno
 {

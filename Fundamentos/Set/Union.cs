@@ -1,6 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
 
 public class Union
 {
@@ -33,4 +31,3 @@ public class Union
         Console.WriteLine($"\nTotal de Alunos {consultaUnion.Count()}");
     }
 }
-#endregion

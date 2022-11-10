@@ -1,7 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
-
 
 public class Average
 {
@@ -16,4 +13,4 @@ public class Average
         Console.WriteLine(mediaNotas);
     }
 }
-#endregion
+

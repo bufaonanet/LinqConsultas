@@ -1,6 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
 
 public class Distinct
 {
@@ -37,4 +35,4 @@ public class Distinct
         }
     }
 }
-#endregion
+

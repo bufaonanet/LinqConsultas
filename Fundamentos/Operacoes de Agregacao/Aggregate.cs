@@ -1,6 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
 
 public class Aggregate
 {
@@ -33,4 +31,3 @@ public class Aggregate
         Console.WriteLine(listaAlunos2);
     }
 }
-#endregion

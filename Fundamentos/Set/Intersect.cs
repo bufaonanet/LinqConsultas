@@ -1,6 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
 
 public class Intersect
 {
@@ -42,4 +40,3 @@ public class Intersect
         Console.WriteLine($"\nTotal de Alunos {consultaIntersect.Count()}");
     }
 }
-#endregion

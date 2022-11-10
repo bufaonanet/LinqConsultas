@@ -1,7 +1,4 @@
 ﻿
-#endregion
-#region Usos do Linq
-
 
 public class Count
 {
@@ -16,4 +13,3 @@ public class Count
         Console.WriteLine(resultado1);
     }
 }
-#endregion

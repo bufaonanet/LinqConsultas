@@ -1,6 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
 
 public class OrderBy
 {
@@ -35,4 +33,3 @@ public class OrderBy
         }
     }
 }
-#endregion

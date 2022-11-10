@@ -1,6 +1,4 @@
 ﻿
-#endregion
-#region Usos do Linq
 
 public class Reverser
 {
@@ -24,4 +22,4 @@ public class Reverser
         }
     }
 }
-#endregion
+

@@ -1,7 +1,4 @@
 ﻿
-#endregion
-#region Usos do Linq
-
 
 public class Sum
 {
@@ -22,4 +19,3 @@ public class Sum
         Console.WriteLine(resultado2);
     }
 }
-#endregion

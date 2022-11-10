@@ -1,7 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
-
 public class Select
 {
     public static void ProjecaoDedadosComSelect()
@@ -77,4 +74,4 @@ public class Select
     }
 
 }
-#endregion
+

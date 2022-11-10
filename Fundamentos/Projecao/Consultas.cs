@@ -1,8 +1,4 @@
-﻿
-#endregion
-#region Usos do Linq
-
-public class Consultas
+﻿public class Consultas
 {
     public static void TiposDeConsulta()
     {
@@ -22,4 +18,4 @@ public class Consultas
         Console.WriteLine(string.Join("-", resultado2));
     }
 }
-#endregion
+

@@ -1,6 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
 
 public class Except
 {
@@ -24,4 +22,4 @@ public class Except
         }
     }
 }
-#endregion
+

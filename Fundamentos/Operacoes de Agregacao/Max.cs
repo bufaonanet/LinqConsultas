@@ -1,7 +1,4 @@
 ﻿using Fundamentos.Dados;
-#endregion
-#region Usos do Linq
-
 
 public class Max
 {
@@ -25,4 +22,3 @@ public class Max
 }
 
 
-#endregion
